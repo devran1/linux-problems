@@ -27,3 +27,5 @@ virtualenv name
 source name/bin/activate
 
 python --version # be sure it is python3
+
+(inside the environment I can use pip not pip3)
