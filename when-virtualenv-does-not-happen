@@ -1,0 +1,12 @@
+sudo apt-get purge --auto-remove python-pip
+
+sudo apt-get install python-pip
+
+(i tried that one but add sudo) pip install virtualenv
+
+sudo -H pip install virtualenv
+
+
+then virtualenv (name_of_virtual_environment)
+
+source name/bin/activate
