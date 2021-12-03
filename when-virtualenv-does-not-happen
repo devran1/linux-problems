@@ -10,3 +10,20 @@ sudo -H pip install virtualenv
 then virtualenv (name_of_virtual_environment)
 
 source name/bin/activate
+
+
+#
+sudo apt-get remove python #removes python2
+
+
+sudo apt-get install python3
+
+sudo apt-get install python3-pip
+
+sudo pip install virtualenv
+
+virtualenv name
+
+source name/bin/activate
+
+python --version # be sure it is python3
