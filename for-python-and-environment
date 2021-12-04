@@ -29,7 +29,7 @@ sudo apt-get install python3
 
 sudo apt-get install python3-pip
 
-sudo pip install virtualenv
+sudo pip install virtualenv #if doesn't work try pip3
 
 virtualenv name
 
