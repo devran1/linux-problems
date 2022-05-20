@@ -1,8 +1,8 @@
 sudo apt-get purge --auto-remove python-pip
 
-sudo apt-get install python-pip
+sudo apt-get install python-pip (python3-pip)
 
-(i tried that one but add sudo) pip install virtualenv
+(i tried that one but add sudo) pip install virtualenv (try with pip3)
 
 sudo -H pip install virtualenv
 
