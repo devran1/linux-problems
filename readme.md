@@ -25,6 +25,12 @@ sudo apt-get remove python #removes python2
 
 sudo apt-get install python3
 
+```
+sudo add-apt-repository ppa:deadsnakes/ppa
+
+sudo apt install python3.7
+```
+
 sudo apt-get install python3-pip
 
 sudo pip install virtualenv #if doesn't work try pip3
