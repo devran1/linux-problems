@@ -37,6 +37,7 @@ sudo pip3 install virtualenv #if that doesn't work try pip
 
 sudo pip install virtualenv 
 
+sudo apt-get install  python3.7-distutils
 
 virtualenv name
 
