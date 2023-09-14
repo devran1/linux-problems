@@ -1,3 +1,10 @@
+if you do 
+```
+sudo apt-get remove --purge python3
+```
+it will delete almost everything, firefox,  even terminal won't be there, if you close it after that when you restart the computer, gui will not open it will be just terminal screen and will ask you to enter the password.
+
+
 happens when i try to update
 
 "W: Some index files failed to download. They have been ignored, or old ones used instead." 
